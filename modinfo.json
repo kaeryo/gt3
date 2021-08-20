@@ -1,16 +1,16 @@
 {
 	"name": "Grim Tales Server Mod",
 	"description": "Server Mod for Grim Tales server.\n-Balances all weapons and armor to DLC levels, removes special effects.\n-Pacifies pets and thralls.\n-Adds recipes for EE/DMT items.\n-Adds some new items.\n-Adds thrall recipes to players.",
-	"changeNote": "-Balanced new claw weapons\n-Balanced new black ice weapons\n-Adjusted damage on mauls that were out of the line, increased maul arpens to new values, decreased stamina costs to new funcom values\n-Decreased spear stamina costs to new funcom values\n",
+	"changeNote": "-Balanced one shortsword and one 2h axe that escaped nerf\n-Balanced new dual wield axe weapons\n-Balanced two boots that escaped nerf\n-Added pet goat recipe\n-Removed a few weapon destructible meshes to potentially help log spam",
 	"author": "Grim Tales",
 	"authorUrl": "https://steamcommunity.com/profiles/76561199194262301/",
 	"versionMajor": 2021,
 	"versionMinor": 8,
-	"versionBuild": 17,
+	"versionBuild": 19,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2561382119",
 	"steamVisibility": 0,
 	"folderName": "gt3",
-	"revisionNumber": 300976,
-	"snapshotId": 29848
+	"revisionNumber": 314055,
+	"snapshotId": 30574
 }
